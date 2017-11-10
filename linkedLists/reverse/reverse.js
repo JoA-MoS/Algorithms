@@ -45,7 +45,6 @@ function reverseNodesInKGroups(l, k) {
     if (countToEnd(l) < k) {
         return l;
     }
-    var f = l;
     var w = l;
     var r = w.next || null;
     var s = 1;
@@ -60,6 +59,25 @@ function reverseNodesInKGroups(l, k) {
     l = w;
     return l;
 }
+
+
+function reverseNodesInKGroups2(l, k) {
+
+    var w = l;
+    var r = w.next || null;
+    var s = 1;
+    while (s < k) {
+        var temp = r.next;
+        r.next = w;
+        w = r;
+        r = temp;
+        s++;
+    }
+    l.next = reverseNodesInKGroups(r, k);
+    l = w;
+    return l;
+}
+
 
 let lst = new ListNode(1);
 lst.add(2).add(3).add(4).add(5).add(6);

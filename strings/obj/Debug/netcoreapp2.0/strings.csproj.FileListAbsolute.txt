@@ -1,0 +1,10 @@
+C:\dev\Algorithms\strings\bin\Debug\netcoreapp2.0\strings.deps.json
+C:\dev\Algorithms\strings\bin\Debug\netcoreapp2.0\strings.runtimeconfig.json
+C:\dev\Algorithms\strings\bin\Debug\netcoreapp2.0\strings.runtimeconfig.dev.json
+C:\dev\Algorithms\strings\bin\Debug\netcoreapp2.0\strings.dll
+C:\dev\Algorithms\strings\bin\Debug\netcoreapp2.0\strings.pdb
+C:\dev\Algorithms\strings\obj\Debug\netcoreapp2.0\strings.csproj.CoreCompileInputs.cache
+C:\dev\Algorithms\strings\obj\Debug\netcoreapp2.0\strings.AssemblyInfoInputs.cache
+C:\dev\Algorithms\strings\obj\Debug\netcoreapp2.0\strings.AssemblyInfo.cs
+C:\dev\Algorithms\strings\obj\Debug\netcoreapp2.0\strings.dll
+C:\dev\Algorithms\strings\obj\Debug\netcoreapp2.0\strings.pdb
