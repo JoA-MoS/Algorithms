@@ -13,6 +13,8 @@ namespace strings
             Console.WriteLine(isPalidrome("r"));
             Console.WriteLine(isPalidrome(""));
             Console.WriteLine(isPalidrome("test"));
+
+
         }
 
         static bool isPalidrome(string str)
